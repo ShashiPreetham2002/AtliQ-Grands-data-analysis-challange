@@ -1,1 +1,0 @@
-# AtliQ-Grands-data-analysis-challange
